@@ -2,6 +2,7 @@
 
 ## Contact Information
 Email: ameyer.0410@gmail.com
+LinkedIn: https://www.linkedin.com/in/allyson-totpal-1101b615a/
 
 ## Projects
 ### Predicting Workforce Burnout Risk Using Economic and Public Health Indicators
